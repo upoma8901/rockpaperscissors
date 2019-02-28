@@ -6,4 +6,30 @@
   display:flex;
   justify-content:space-between;
   
+  
+}
+#userChoice{
+  border:4px dotted red;
+  padding:16px;
+  font-style: italic;
+  color: blue;
+  font-weight: bold
+}
+#computerChoice{
+  border:4px dotted blue;
+  padding:16px;
+  font-family: monospace;
+  color: red;
+  font-weight: bold;
+
+}
+body{
+  background-color: pink;
+}
+#shoot{
+  background-color: purple;
+}
+#result{font-family: sans-serif;
+  font-size: large;
+  font-weight: bolder;
 }
